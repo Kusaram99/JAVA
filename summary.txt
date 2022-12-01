@@ -1,0 +1,9 @@
+===================== How to define array in java ============
+	type[] arrayName = new type[size];
+
+	Example: int[] arr = new int[3];
+
+===================== 2D Array ====================
+	type[][] arrayName = new type[rows][columns];
+
+	int[][] numbers = new int[3][5];
